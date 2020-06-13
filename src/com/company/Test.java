@@ -3,5 +3,7 @@ package com.company;
 public class Test {
 
     private  int id;
-    private  int i;
+    private  int a;
+    private  int b;
+    private  int c;
 }
